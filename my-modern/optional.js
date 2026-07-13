@@ -1,5 +1,5 @@
-// const str = null;
-const str = 'abcdefg';
+const str = null;
+// const str = 'abcdefg';
 // console.log(str.substring(1));
 
 // if (str !== null && str !== undefined) {
